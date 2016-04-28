@@ -597,4 +597,12 @@ iframe{
   transform: scale(1.1);
 }
 
+.popover   {
+	background-color: white;
+	color: black;
+	width: 120px;
+}
+.popover.right .arrow:after {
+	border-right-color: white;
+}
 
